@@ -102,7 +102,7 @@ This app will be available at: [http://localhost:5173](http://localhost:5173)
 3. Import your repository
 4. Click **Deploy**
 
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
+Live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
 
 ---
 
@@ -116,5 +116,3 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Vercel](https://vercel.com/)
 
 ---
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
